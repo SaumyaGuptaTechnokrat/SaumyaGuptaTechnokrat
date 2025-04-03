@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [https://saumyaguptatechnokrat.github.io/Portfolio/](https://saumyaguptatechnokrat.github.io/Portfolio/)
 
-- <h1> Open Source Contribution :- [https://github.com/woocommerce/woocommerce/issues/50074](https://github.com/woocommerce/woocommerce/issues/50074)</h1>
+- <h1> Open Source Contribution :-https://github.com/woocommerce/woocommerce/issues/50074</h1>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
